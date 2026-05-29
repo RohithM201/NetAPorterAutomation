@@ -32,6 +32,7 @@ public class Browser extends CommonFunctions {
             default: System.out.println("Invalid WebBrowser");
 
         }
+        driver.get(link);
 
     }
 
