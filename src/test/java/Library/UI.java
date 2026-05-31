@@ -1,3 +1,5 @@
+package Library;
+
 public interface UI {
     String browser = "chrome";
     String link = "https://www.net-a-porter.com/en-ca/";
