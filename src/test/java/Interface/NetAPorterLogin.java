@@ -27,6 +27,8 @@ public class NetAPorterLogin extends CommonFunctions {
     @FindBy(xpath = "//button[contains(@class,'Button10--submit')]")
     WebElement submitBtn;
 
+
+
     public void Runner ()
     {
         clickWait(myAccount);
